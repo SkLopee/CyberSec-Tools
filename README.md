@@ -1,7 +1,7 @@
-# CyberSec-Tools
+# CyberSec-Tools 🔒
 List of cybersecurity ressources usefull for all domains.
 
-## CyberSec-News 📃
+## CyberSec-News 📰
 Cybersecurity's news oriented ressources
 
 <table>
@@ -55,7 +55,7 @@ Cybersecurity's news oriented ressources
     </tr>
 </table>
 
-## CyberSec-CTI
+## CyberSec-CTI 📊
 Cyber Threat Intelligence (CTI) oriented tools
 
 <table>
@@ -77,7 +77,7 @@ Cyber Threat Intelligence (CTI) oriented tools
     </tr>
 </table>
 
-## CyberSec-SOC
+## CyberSec-SOC 🛡️
 Security Operation Center (SOC) oriented tools
 
 <table>
@@ -171,7 +171,7 @@ Security Operation Center (SOC) oriented tools
     </tr>
 </table>
 
-## CyberSec-Offensive
+## CyberSec-Offensive ⚔️
 Red team oriented tools
 
 <table>
@@ -201,7 +201,7 @@ Red team oriented tools
     </tr>
 </table>
 
-## CyberSec-Misc
+## CyberSec-Misc 🛠️
 Cybersecurity tools that doesn't fit into the categories above
 
 <table>

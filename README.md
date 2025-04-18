@@ -29,5 +29,8 @@ Cyber Threat Intelligence (CTI) oriented tools
 ## CyberSec-SOC
 Security Operation Center (SOC) oriented tools
 
+## CyberSec-Offensive
+Red team oriented tools
+
 ## CyberSec-Misc
 Cybersecurity tools that doesn't fit into the categories above

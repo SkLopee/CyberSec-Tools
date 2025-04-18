@@ -1,7 +1,7 @@
 # CyberSec-Tools
 List of cybersecurity ressources usefull for all domains.
 
-## CyberSec-News
+## CyberSec-News 📃
 Cybersecurity's news oriented ressources
 
 <table>

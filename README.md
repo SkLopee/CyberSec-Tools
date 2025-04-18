@@ -67,6 +67,14 @@ Cyber Threat Intelligence (CTI) oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/hslatman/awesome-threat-intelligence" target="_blank">Git ToolKit CTI</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
 
 ## CyberSec-SOC
@@ -153,14 +161,6 @@ Security Operation Center (SOC) oriented tools
             placeholder
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
-        </td>
-        <td>
-            placeholder
-        </td>
-    </tr>
 </table>
 
 ## CyberSec-Offensive
@@ -178,6 +178,14 @@ Red team oriented tools
     <tr>
         <td>
             <a href="https://github.com/redcanaryco/atomic-red-team" target="_blank">Git Atomic-Red-Team</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/yogsec/Hacking-Tools" target="_blank">Git Hacking tools</a>
         </td>
         <td>
             placeholder

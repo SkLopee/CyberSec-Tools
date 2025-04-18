@@ -18,7 +18,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.cybersecurity-insiders.com/" target="_blank">Cybersecurity insiders</a>
         </td>
         <td>
-​            Cybersecurity news, expert analysis, research reports
+​           Cybersecurity news, expert analysis, research reports
         </td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ Cybersecurity's news oriented ressources
             <a href="https://korben.info/categories/securite-vie-privee/cybersecurite/" target="_blank">Korben (FR)</a>
         </td>
         <td>
-​           Articles, tools, and tutorials on cybersecurity, ethical hacking, and digital privacy
+​          Articles, tools, and tutorials on cybersecurity, ethical hacking, and digital privacy
         </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ Cybersecurity's news oriented ressources
             <a href="https://embracethered.com/blog/" target="_blank">Embrace the red</a>
         </td>
         <td>
-​            AI vulnerabilities, red teaming, and emerging threats focused news
+​           AI vulnerabilities, red teaming, and emerging threats focused news
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ Cybersecurity's news oriented ressources
             <a href="https://arxiv.org/list/cs.CR/recent" target="_blank">Arxiv</a>
         </td>
         <td>
-​            Research papers about cybersecurity
+​           Research papers about cybersecurity
         </td>
     </tr>
 </table>

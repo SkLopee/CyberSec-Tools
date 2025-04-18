@@ -7,7 +7,7 @@ Cybersecurity's news oriented ressources
 <table>
     <tr>
         <td>
-            <a href="https://www.abuseipdb.com/" target="_blank">template</a>
+            <a href="https://www.csoonline.com/" target="_blank">CSO Online</a>
         </td>
         <td>
             Template

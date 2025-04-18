@@ -147,7 +147,7 @@ Security Operation Center (SOC) oriented tools
     </tr>
     <tr>
         <td>
-            <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
+            <a href="https://uncoder.io/" target="_blank">Uncoder</a>
         </td>
         <td>
             placeholder
@@ -176,5 +176,25 @@ Red team oriented tools
         </td>
     </tr>
 </table>
+
 ## CyberSec-Misc
 Cybersecurity tools that doesn't fit into the categories above
+
+<table>
+    <tr>
+        <td>
+            <a href="https://gchq.github.io/CyberChef/" target="_blank">CyberChief</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://regex101.com/" target="_blank">Regex101</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+</table>

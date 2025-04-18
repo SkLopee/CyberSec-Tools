@@ -66,7 +66,40 @@ Cyber Threat Intelligence (CTI) oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.hybrid-analysis.com/" target="_blank">Hybrid Analysis</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://intelligence.any.run/" target="_blank">Any Run</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://urlscan.io/" target="_blank">URLscna</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
+
 ## CyberSec-SOC
 Security Operation Center (SOC) oriented tools
 

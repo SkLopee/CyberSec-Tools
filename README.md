@@ -191,16 +191,8 @@ Red team oriented tools
             placeholder
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/yogsec/Hacking-Tools" target="_blank">Git Hacking tools</a>
-        </td>
-        <td>
-            placeholder
-        </td>
-    </tr>
 </table>
-
+s
 ## 🛠️ CyberSec-Misc 🛠️
 Cybersecurity tools that doesn't fit into the categories above
 

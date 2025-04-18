@@ -15,10 +15,10 @@ Cybersecurity's news oriented ressources
     </tr>
     <tr>
         <td>
-            <a href="https://www.abuseipdb.com/" target="_blank">template</a>
+            <a href="https://www.cybersecurity-insiders.com/" target="_blank"Cybersecurity insiders</a>
         </td>
         <td>
-            Template
+​            Offers cybersecurity news, expert analysis, research reports, and practical guidance for security professionals.
         </td>
     </tr>
 </table>

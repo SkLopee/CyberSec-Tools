@@ -161,6 +161,14 @@ Security Operation Center (SOC) oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/projectdiscovery/cvemap" target="_blank">Git CVEmap/a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
 
 ## CyberSec-Offensive

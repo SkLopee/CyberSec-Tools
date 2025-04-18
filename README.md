@@ -191,6 +191,14 @@ Red team oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/A-poc/RedTeam-Tools" target="_blank">Git RedTeam-Tools</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
 s
 ## 🛠️ CyberSec-Misc 🛠️

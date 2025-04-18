@@ -42,7 +42,7 @@ Cybersecurity's news oriented ressources
             <a href="https://embracethered.com/blog/" target="_blank">Embrace the red</a>
         </td>
         <td>
-​            Explores advanced cybersecurity topics, including AI vulnerabilities, red teaming, and emerging threats in data security
+​            AI vulnerabilities, red teaming, and emerging threats focused news
         </td>
     </tr>
     <tr>

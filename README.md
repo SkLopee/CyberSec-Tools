@@ -57,6 +57,21 @@ Cybersecurity's news oriented ressources
 
 ## CyberSec-CTI
 Cyber Threat Intelligence (CTI) oriented tools
+
+<table>
+    <tr>
+        <td>
+            <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+</table>
+
+## CyberSec-SOC
+Security Operation Center (SOC) oriented tools
+
 <table>
     <tr>
         <td>
@@ -84,7 +99,55 @@ Cyber Threat Intelligence (CTI) oriented tools
     </tr>
     <tr>
         <td>
-            <a href="https://urlscan.io/" target="_blank">URLscna</a>
+            <a href="https://urlscan.io/" target="_blank">URLscan</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pulsedive.com/analyze/" target="_blank">PulseDive</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://dnsdumpster.com/" target="_blank">DNSDumpster</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.phishtank.com/" target="_blank">Phishtank</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
         </td>
         <td>
             placeholder
@@ -100,11 +163,18 @@ Cyber Threat Intelligence (CTI) oriented tools
     </tr>
 </table>
 
-## CyberSec-SOC
-Security Operation Center (SOC) oriented tools
-
 ## CyberSec-Offensive
 Red team oriented tools
 
+<table>
+    <tr>
+        <td>
+            <a href="https://www.shodan.io/" target="_blank">Shodan</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+</table>
 ## CyberSec-Misc
 Cybersecurity tools that doesn't fit into the categories above

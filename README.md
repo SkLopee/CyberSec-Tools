@@ -2,6 +2,8 @@
 List of cybersecurity ressources usefull for all domains.
 
 ## CyberSec-News
+Cybersecurity's news oriented ressources
+
 <table>
     <tr>
         <td>
@@ -22,7 +24,10 @@ List of cybersecurity ressources usefull for all domains.
 </table>
 
 ## CyberSec-CTI
+Cyber Threat Intelligence (CTI) oriented tools
 
 ## CyberSec-SOC
+Security Operation Center (SOC) oriented tools
 
 ## CyberSec-Misc
+Cybersecurity tools that doesn't fit into the categories above

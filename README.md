@@ -21,6 +21,38 @@ Cybersecurity's news oriented ressources
 ​            Offers cybersecurity news, expert analysis, research reports, and practical guidance for security professionals.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://korben.info/categories/securite-vie-privee/cybersecurite/" target="_blank">Korben (FR)</a>
+        </td>
+        <td>
+​            ​Features articles, tools, and tutorials on cybersecurity, ethical hacking, and digital privacy, aimed at both beginners and professionals.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.it-connect.fr/cours-tutoriels/securite-informatique/" target="_blank">IT-Connect (FR)</a>
+        </td>
+        <td>
+​            Provides a variety of tutorials and courses on computer security, including best practices, tools, and techniques for securing systems and networks.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.cybersecurity-insiders.com/" target="_blank">Cybersecurity insiders</a>
+        </td>
+        <td>
+​            Offers cybersecurity news, expert analysis, research reports, and practical guidance for security professionals.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.cybersecurity-insiders.com/" target="_blank">Cybersecurity insiders</a>
+        </td>
+        <td>
+​            Offers cybersecurity news, expert analysis, research reports, and practical guidance for security professionals.
+        </td>
+    </tr>
 </table>
 
 ## CyberSec-CTI

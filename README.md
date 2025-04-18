@@ -10,7 +10,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.csoonline.com/" target="_blank">CSO Online</a>
         </td>
         <td>
-            Cybersecurity News website with content that addresses all security disciplines from risk management to network defense to fraud and data loss prevention
+            Critical information about Job trends, cyber practices and threats.
         </td>
     </tr>
     <tr>
@@ -18,7 +18,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.cybersecurity-insiders.com/" target="_blank">Cybersecurity insiders</a>
         </td>
         <td>
-​            Offers cybersecurity news, expert analysis, research reports, and practical guidance for security professionals
+​            Cybersecurity news, expert analysis, research reports
         </td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ Cybersecurity's news oriented ressources
             <a href="https://korben.info/categories/securite-vie-privee/cybersecurite/" target="_blank">Korben (FR)</a>
         </td>
         <td>
-​            ​Features articles, tools, and tutorials on cybersecurity, ethical hacking, and digital privacy, aimed at both beginners and professionals
+​           Articles, tools, and tutorials on cybersecurity, ethical hacking, and digital privacy
         </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.it-connect.fr/cours-tutoriels/securite-informatique/" target="_blank">IT-Connect (FR)</a>
         </td>
         <td>
-            Provides a variety of tutorials and courses on computer security, including best practices, tools, and techniques for securing systems and networks
+            Tutorials and courses on computer security, including best practices and tools
         </td>
     </tr>
     <tr>

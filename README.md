@@ -34,7 +34,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.it-connect.fr/cours-tutoriels/securite-informatique/" target="_blank">IT-Connect (FR)</a>
         </td>
         <td>
-​            Provides a variety of tutorials and courses on computer security, including best practices, tools, and techniques for securing systems and networks
+            Provides a variety of tutorials and courses on computer security, including best practices, tools, and techniques for securing systems and networks
         </td>
     </tr>
     <tr>

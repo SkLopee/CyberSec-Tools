@@ -10,7 +10,7 @@ Cybersecurity's news oriented ressources
             <a href="https://www.csoonline.com/" target="_blank">CSO Online</a>
         </td>
         <td>
-            Template
+            Cybersecurity News website with content that addresses all security disciplines from risk management to network defense to fraud and data loss prevention
         </td>
     </tr>
     <tr>

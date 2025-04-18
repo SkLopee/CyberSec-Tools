@@ -57,7 +57,16 @@ Cybersecurity's news oriented ressources
 
 ## CyberSec-CTI
 Cyber Threat Intelligence (CTI) oriented tools
-
+<table>
+    <tr>
+        <td>
+            <a href="https://www.virustotal.com/gui/home/upload" target="_blank">Virustotal</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+</table>
 ## CyberSec-SOC
 Security Operation Center (SOC) oriented tools
 

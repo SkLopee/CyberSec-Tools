@@ -205,4 +205,36 @@ Cybersecurity tools that doesn't fit into the categories above
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://attack.mitre.org/" target="_blank">MITRE ATT&CK</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://capec.mitre.org/" target="_blank">MITRE CAPEC</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cwe.mitre.org/" target="_blank">MITRE CWE</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cve.mitre.org/" target="_blank">MITRE CVE</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>

@@ -175,6 +175,14 @@ Red team oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/redcanaryco/atomic-red-team" target="_blank">Git Atomic-Red-Team</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
 
 ## CyberSec-Misc

@@ -263,7 +263,7 @@ Cybersecurity tools that doesn't fit into the categories above
     </tr>
     <tr>
         <td>
-            <a href="https://cve.mitre.org/" target="_blank">MITRE CVE</a>
+            <a href="https://www.cve.org/" target="_blank">MITRE CVE</a>
         </td>
         <td>
             Knowledge base of vulnerabilities 

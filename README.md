@@ -64,7 +64,7 @@ Cyber Threat Intelligence (CTI) oriented tools
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td>
         <td>
-            placeholder
+            Database that gather information from active honeypots worldwide
         </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Cyber Threat Intelligence (CTI) oriented tools
             <a href="https://github.com/hslatman/awesome-threat-intelligence" target="_blank">Git ToolKit CTI</a>
         </td>
         <td>
-            placeholder
+            List of CTI oriented ressources
         </td>
     </tr>
 </table>

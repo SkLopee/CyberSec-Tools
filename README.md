@@ -1,8 +1,8 @@
 # 🔒 CyberSec-Tools 🔒
-List of cybersecurity ressources usefull for all domains.
+List of cybersecurity ressources useful across various domains.
 
 ## 📰 CyberSec-News 📰
-Cybersecurity's news oriented ressources
+Cybersecurity's news oriented resources
 
 <table>
     <tr>
@@ -72,7 +72,7 @@ Cyber Threat Intelligence (CTI) oriented tools
             <a href="https://github.com/hslatman/awesome-threat-intelligence" target="_blank">Git ToolKit CTI</a>
         </td>
         <td>
-            List of CTI oriented ressources
+            List of CTI oriented resources
         </td>
     </tr>
 </table>
@@ -212,7 +212,7 @@ Red team oriented tools
             <a href="https://github.com/A-poc/RedTeam-Tools" target="_blank">Git RedTeam-Tools</a>
         </td>
         <td>
-            List of red team oriented ressources
+            List of red team oriented resources
         </td>
     </tr>
 </table>

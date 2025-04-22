@@ -218,7 +218,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://gchq.github.io/CyberChef/" target="_blank">CyberChief</a>
         </td>
         <td>
-            placeholder
+            Tool for encryption, encoding, compression and data analysis
         </td>
     </tr>
     <tr>
@@ -226,7 +226,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://regex101.com/" target="_blank">Regex101</a>
         </td>
         <td>
-            placeholder
+            Regex testing tool
         </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://mitre-attack.github.io/attack-navigator/" target="_blank">Att&ck Navigator</a>
         </td>
         <td>
-            placeholder
+            tool that provides basic navigation and annotation of ATT&CK matrices 
         </td>
     </tr>
     <tr>
@@ -242,7 +242,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://attack.mitre.org/" target="_blank">MITRE ATT&CK</a>
         </td>
         <td>
-            placeholder
+            knowledge base of adversary tactics and techniques
         </td>
     </tr>
     <tr>
@@ -250,7 +250,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="http://capec.mitre.org/" target="_blank">MITRE CAPEC</a>
         </td>
         <td>
-            placeholder
+            Knowledge base of software weaknesses
         </td>
     </tr>
     <tr>
@@ -258,7 +258,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://cwe.mitre.org/" target="_blank">MITRE CWE</a>
         </td>
         <td>
-            placeholder
+            Knowledge base of software and hardware weaknesses
         </td>
     </tr>
     <tr>
@@ -266,7 +266,7 @@ Cybersecurity tools that doesn't fit into the categories above
             <a href="https://cve.mitre.org/" target="_blank">MITRE CVE</a>
         </td>
         <td>
-            placeholder
+            Knowledge base of vulnerabilities 
         </td>
     </tr>
 </table>

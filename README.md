@@ -188,7 +188,7 @@ Red team oriented tools
             <a href="https://www.shodan.io/" target="_blank">Shodan</a>
         </td>
         <td>
-            placeholder
+            Exposed IoT search engine 
         </td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ Red team oriented tools
             <a href="https://github.com/redcanaryco/atomic-red-team" target="_blank">Git Atomic-Red-Team</a>
         </td>
         <td>
-            placeholder
+            Library of tests mapped to the MITRE ATT&CK® framework
         </td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@ Red team oriented tools
             <a href="https://github.com/A-poc/RedTeam-Tools" target="_blank">Git RedTeam-Tools</a>
         </td>
         <td>
-            placeholder
+            List of red team oriented ressources
         </td>
     </tr>
 </table>

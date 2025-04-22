@@ -177,6 +177,14 @@ Security Operation Center (SOC) oriented tools
             placeholder
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/A-poc/BlueTeam-Tools" target="_blank">Git BlueTeam-Tools</a>
+        </td>
+        <td>
+            placeholder
+        </td>
+    </tr>
 </table>
 
 ## ⚔️ CyberSec-Offensive ⚔️

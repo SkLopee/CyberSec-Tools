@@ -200,7 +200,7 @@ Red team oriented tools
         </td>
     </tr>
 </table>
-s
+
 ## 🛠️ CyberSec-Misc 🛠️
 Cybersecurity tools that doesn't fit into the categories above
 

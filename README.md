@@ -163,7 +163,7 @@ Security Operation Center (SOC) oriented tools
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/projectdiscovery/cvemap" target="_blank">Git CVEmap>/a>
+            <a href="https://github.com/projectdiscovery/cvemap" target="_blank">Git CVEmap</a>
         </td>
         <td>
             placeholder
@@ -171,7 +171,7 @@ Security Operation Center (SOC) oriented tools
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/LoicVeirman/Hello-My-Dir" target="_blank">Git Hello-My-Dir>/a>
+            <a href="https://github.com/LoicVeirman/Hello-My-Dir" target="_blank">Git Hello-My-Dir</a>
         </td>
         <td>
             placeholder

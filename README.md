@@ -223,7 +223,7 @@ Cybersecurity training/education tools
 <table>
     <tr>
         <td>
-            <a href="https://gchq.github.io/CyberChef/" target="_blank">BlueTeamLabsOnline</a>
+            <a href="https://blueteamlabs.online/" target="_blank">BlueTeamLabsOnline</a>
         </td>
         <td>
             Blue team labs

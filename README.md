@@ -229,6 +229,14 @@ Cybersecurity training/education tools
             Blue team labs
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.root-me.org/" target="_blank">Root Me</a>
+        </td>
+        <td>
+            Red team oriented CTF
+        </td>
+    </tr>
 </table>
 
 ## 🛠️ CyberSec-Misc 🛠️

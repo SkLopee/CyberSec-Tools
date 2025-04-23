@@ -226,7 +226,7 @@ Cybersecurity training/education tools
             <a href="https://blueteamlabs.online/" target="_blank">BlueTeamLabsOnline</a>
         </td>
         <td>
-            Blue team labs
+            Blue team oriented labs
         </td>
     </tr>
     <tr>

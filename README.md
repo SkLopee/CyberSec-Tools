@@ -217,6 +217,20 @@ Red team oriented tools
     </tr>
 </table>
 
+## 📚 CyberSec-Training 📚
+Cybersecurity training/education tools
+
+<table>
+    <tr>
+        <td>
+            <a href="https://gchq.github.io/CyberChef/" target="_blank">BlueTeamLabsOnline</a>
+        </td>
+        <td>
+            Blue team labs
+        </td>
+    </tr>
+</table>
+
 ## 🛠️ CyberSec-Misc 🛠️
 Cybersecurity tools that doesn't fit into the categories above
 

@@ -69,7 +69,7 @@ Cyber Threat Intelligence (CTI) oriented tools
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/hslatman/awesome-threat-intelligence" target="_blank">Git ToolKit CTI</a>
+            <a href="https://github.com/hslatman/awesome-threat-intelligence" target="_blank">Git awesome-threat-intelligence toolkit</a>
         </td>
         <td>
             List of CTI oriented resources

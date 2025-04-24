@@ -92,8 +92,8 @@ Cyber Threat Intelligence (CTI) oriented tools
     </tr>
 </table>
 
-## 🛡️ CyberSec-SOC 🛡️
 <a name="-cybersec-soc-"></a>
+## 🛡️ CyberSec-SOC 🛡️
 Security Operation Center (SOC) oriented tools
 
 <table>
@@ -195,6 +195,7 @@ Security Operation Center (SOC) oriented tools
     </tr>
 </table>
 
+<a name="-cybersec-offensive-"></a>
 ## ⚔️ CyberSec-Offensive ⚔️
 Red team oriented tools
 
@@ -255,6 +256,7 @@ Cybersecurity training/education tools
     </tr>
 </table>
 
+<a name="-cybersec-misc-"></a>
 ## 🛠️ CyberSec-Misc 🛠️
 Cybersecurity tools that doesn't fit into the categories above
 

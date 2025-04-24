@@ -75,6 +75,14 @@ Cyber Threat Intelligence (CTI) oriented tools
             List of CTI oriented resources
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://intelligence.any.run/" target="_blank">Any Run</a>
+        </td>
+        <td>
+            Threat intel from any run
+        </td>
+    </tr>
 </table>
 
 ## 🛡️ CyberSec-SOC 🛡️
@@ -86,7 +94,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://www.virustotal.com/gui/home/upload" target="_blank">Virustotal</a>
         </td>
         <td>
-            placeholder
+            Suspicious files, domains, IPs and URLs analyzer
         </td>
     </tr>
     <tr>
@@ -94,15 +102,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://www.hybrid-analysis.com/" target="_blank">Hybrid Analysis</a>
         </td>
         <td>
-            placeholder
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://intelligence.any.run/" target="_blank">Any Run</a>
-        </td>
-        <td>
-            placeholder
+            Malware analyzer
         </td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://urlscan.io/" target="_blank">URLscan</a>
         </td>
         <td>
-            placeholder
+            Tools that gathers infos about URL
         </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://threatintelligenceplatform.com/" target="_blank">Threat Intelligence Platform</a>
         </td>
         <td>
-            placeholder
+            IP & URL analyzer
         </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://pulsedive.com/analyze/" target="_blank">PulseDive</a>
         </td>
         <td>
-            placeholder
+            IOC analyzer
         </td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
-            placeholder
+            IP Analyzer
         </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://dnsdumpster.com/" target="_blank">DNSDumpster</a>
         </td>
         <td>
-            placeholder
+            Tools that gathers DNS infos
         </td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://www.phishtank.com/" target="_blank">Phishtank</a>
         </td>
         <td>
-            placeholder
+            Phishing url database
         </td>
     </tr>
     <tr>
@@ -158,7 +158,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://uncoder.io/" target="_blank">Uncoder</a>
         </td>
         <td>
-            placeholder
+            Tranform IOCs into SIEM/EDR/XDR rule
         </td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://github.com/projectdiscovery/cvemap" target="_blank">Git CVEmap</a>
         </td>
         <td>
-            placeholder
+            CVE navigator
         </td>
     </tr>
     <tr>
@@ -174,7 +174,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://github.com/LoicVeirman/Hello-My-Dir" target="_blank">Git Hello-My-Dir</a>
         </td>
         <td>
-            placeholder
+            Active directory hardener tool
         </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@ Security Operation Center (SOC) oriented tools
             <a href="https://github.com/A-poc/BlueTeam-Tools" target="_blank">Git BlueTeam-Tools</a>
         </td>
         <td>
-            placeholder
+            List of blue team oriented resources
         </td>
     </tr>
 </table>
@@ -197,6 +197,14 @@ Red team oriented tools
         </td>
         <td>
             Exposed IoT search engine 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.pingcastle.com/download/" target="_blank">Pingcastle</a>
+        </td>
+        <td>
+            Active directory pentest
         </td>
     </tr>
     <tr>

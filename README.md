@@ -93,6 +93,7 @@ Cyber Threat Intelligence (CTI) oriented tools
 </table>
 
 ## 🛡️ CyberSec-SOC 🛡️
+<a name="cybersec-soc"></a>
 Security Operation Center (SOC) oriented tools
 
 <table>

@@ -1,6 +1,12 @@
 # 🔒 CyberSec-Tools 🔒
 List of cybersecurity ressources useful across various domains.
 
+- [📰 CyberSec-News 📰](#📰 CyberSec-News 📰)
+- [Formats](#formats)
+- [Frameworks & Platforms](#frameworks-and-platforms)
+- [Tools](#tools)
+- [Research, Standards & Books](#research)
+- 
 ## 📰 CyberSec-News 📰
 Cybersecurity's news oriented resources
 

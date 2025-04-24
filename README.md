@@ -3,10 +3,11 @@ List of cybersecurity ressources useful across various domains.
 
 - [📰 CyberSec-News 📰](#-cybersec-news-)
 - [📊 CyberSec-CTI 📊](#-cybersec-cti-)
-- [🛡️ CyberSec-SOC 🛡️](#️-cybersec-soc-)
+- [🛡️ CyberSec-SOC 🛡️](#️-cybersec-SOC-)
 - [⚔️ CyberSec-Offensive ⚔️](#-cybersec-offensive-)
 - [🛠️ CyberSec-Misc 🛠️](#-cybersec-misc-)
-- 
+- [📚 CyberSec-Training 📚](#-cybersec-training-)
+  
 ## 📰 CyberSec-News 📰
 Cybersecurity's news oriented resources
 

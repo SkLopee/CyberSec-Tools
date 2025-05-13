@@ -325,4 +325,12 @@ Cybersecurity tools that doesn't fit into the categories above
             Cheat sheets about everything
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.thepromptindex.com/prompt-search.html#gsc.tab=0&gsc.q=cybersecurity&gsc.sort=" target="_blank">ThePromptIndex</a>
+        </td>
+        <td>
+            Prompt database, could be used to enhanced cybersecurity oriented prompt
+        </td>
+    </tr>
 </table>

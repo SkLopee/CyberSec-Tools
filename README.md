@@ -319,7 +319,7 @@ Cybersecurity tools that doesn't fit into the categories above
     </tr>
     <tr>
         <td>
-            <a href="The Ultimate List of SANS Cheat Sheets" target="_blank">SANS Cheat Sheets</a>
+            <a href="https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/" target="_blank">SANS Cheat Sheets</a>
         </td>
         <td>
             Cheat sheets about everything

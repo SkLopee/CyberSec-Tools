@@ -341,4 +341,12 @@ Cybersecurity tools that doesn't fit into the categories above
             Prompt database, could be used to enhanced cybersecurity oriented prompt
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.thepromptindex.com/prompt-search.html#gsc.tab=0&gsc.q=cybersecurity&gsc.sort=" target="_blank"> Git personal-security-checklist</a>
+        </td>
+        <td>
+            Cybersecurity and privacy best practices
+        </td>
+    </tr>
 </table>

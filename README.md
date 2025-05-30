@@ -90,6 +90,14 @@ Cyber Threat Intelligence (CTI) oriented tools
             Threat intel from any run
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.breachsense.com/breaches/" target="_blank">Breachsense</a>
+        </td>
+        <td>
+            Recent data breach, Dark web sites and Telegram hacher's channels
+        </td>
+    </tr>
 </table>
 
 <a name="-cybersec-soc-"></a>

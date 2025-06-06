@@ -240,6 +240,14 @@ Red team oriented tools
             List of red team oriented resources
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/A-poc/RedTeam-Tools" target="_blank">Red-Infra-Craft</a>
+        </td>
+        <td>
+            Git to automates the deployment of red team infrastructures
+        </td>
+    </tr>
 </table>
 
 ## 📚 CyberSec-Training 📚

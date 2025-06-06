@@ -270,6 +270,14 @@ Cybersecurity training/education tools
             Red team oriented CTF
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://pauljerimy.com/security-certification-roadmap/" target="_blank">pauljerimy roadmap</a>
+        </td>
+        <td>
+            IT Security roadmap (last update 2024)
+        </td>
+    </tr>
 </table>
 
 <a name="-cybersec-misc-"></a>

@@ -359,7 +359,7 @@ Cybersecurity tools that doesn't fit into the categories above
     </tr>
     <tr>
         <td>
-            <a href="https://www.thepromptindex.com/prompt-search.html#gsc.tab=0&gsc.q=cybersecurity&gsc.sort=" target="_blank"> Git personal-security-checklist</a>
+            <a href="https://github.com/Lissy93/personal-security-checklist/blob/master/CHECKLIST.md" target="_blank"> Git personal-security-checklist</a>
         </td>
         <td>
             Cybersecurity and privacy best practices
